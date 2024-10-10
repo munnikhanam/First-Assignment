@@ -124,3 +124,27 @@ p {
   border: 1px solid rgb(13, 19, 33);
   opacity: 0.7;
 }
+/* curiosity-part end*/
+/* my- inspirational-part-started-css */
+
+.my-inspiration-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+}
+.my-inspiration-tittle {
+  width: 852px;
+  margin: 30px 0;
+}
+.my-inspirational-vedio {
+  margin-bottom: 50px;
+  width: 1140px;
+  border-radius: 16px;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  text-align: center;
+  padding: 30px 0;
+}
+/* my- inspirational-part-end-css */
